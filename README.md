@@ -33,9 +33,9 @@
 
 | | Product | Highlight | Link |
 |:--:|:--|:--|:--|
-| <img src="./assets/icons/teachersknock.png" width="56"> | **티처스노크**<br/><sub>임용고시 학습 관리 · iOS · Android</sub> | 카카오 로그인이 **예측 가능한 비밀번호**로 계정을 만들던 구조를 Firebase Custom Token 방식으로 전환하고, 기존 사용자 UID를 **무중단 마이그레이션**했습니다. | [![App Store](https://img.shields.io/badge/App_Store-10291D?style=flat-square&logo=appstore&logoColor=E9F2EC)](https://apps.apple.com/kr/app/id6757806439) |
-| <img src="./assets/icons/tteona.png" width="56"> | **떠나**<br/><sub>자동 브이로그 · 여행 코스 · iOS · Android · Web</sub> | **REST API 56개**를 실서버 3대에서 직접 운영하고, Socket.IO 실시간 채팅·위치 공유와 **APNs · FCM 2경로** 푸시를 구축했습니다. | [![App Store](https://img.shields.io/badge/App_Store-10291D?style=flat-square&logo=appstore&logoColor=E9F2EC)](https://apps.apple.com/kr/app/id6767218543)<br/>[![Google Play](https://img.shields.io/badge/Google_Play-10291D?style=flat-square&logo=googleplay&logoColor=E9F2EC)](https://play.google.com/store/apps/details?id=com.seoktaedev.tteona)<br/>[![Web](https://img.shields.io/badge/tteona.kr-10291D?style=flat-square&logo=safari&logoColor=E9F2EC)](https://tteona.kr) |
-| <img src="./assets/icons/hello.png" width="56"> | **헬로**<br/><sub>안부 인사 · 리워드 · 토스 미니앱</sub> | Express · TypeScript 백엔드에 **JWT 인증**과 토스 로그인을 연동했습니다. 앱 설치 없이 토스에서 바로 실행됩니다. | [![Toss](https://img.shields.io/badge/토스에서_열기-10291D?style=flat-square)](https://minion.toss.im/j5r1G4Pl) |
+| <img src="./assets/icons/teachersknock.png" width="56"> | **티처스노크**<br/><sub>임용고시 학습 관리</sub><br/><sub>iOS</sub> | 카카오 로그인이 **예측 가능한 비밀번호**로 계정을 만들던 구조를 Firebase Custom Token 방식으로 전환하고, 기존 사용자 UID를 **무중단 마이그레이션**했습니다. | [![App Store](https://img.shields.io/badge/App_Store-10291D?style=flat-square&logo=appstore&logoColor=E9F2EC)](https://apps.apple.com/kr/app/id6757806439) |
+| <img src="./assets/icons/tteona.png" width="56"> | **떠나**<br/><sub>자동 브이로그 · 여행 코스</sub><br/><sub>iOS · Android · Web</sub> | **REST API 56개**를 실서버 3대에서 직접 운영하고, Socket.IO 실시간 채팅·위치 공유와 **APNs · FCM 2경로** 푸시를 구축했습니다. | [![App Store](https://img.shields.io/badge/App_Store-10291D?style=flat-square&logo=appstore&logoColor=E9F2EC)](https://apps.apple.com/kr/app/id6767218543)<br/>[![Google Play](https://img.shields.io/badge/Google_Play-10291D?style=flat-square&logo=googleplay&logoColor=E9F2EC)](https://play.google.com/store/apps/details?id=com.seoktaedev.tteona)<br/>[![Web](https://img.shields.io/badge/tteona.kr-10291D?style=flat-square&logo=safari&logoColor=E9F2EC)](https://tteona.kr) |
+| <img src="./assets/icons/hello.png" width="56"> | **헬로**<br/><sub>안부 인사 · 리워드</sub><br/><sub>토스 미니앱</sub> | Express · TypeScript 백엔드에 **JWT 인증**과 토스 로그인을 연동했습니다. 앱 설치 없이 토스에서 바로 실행됩니다. | [![Toss](https://img.shields.io/badge/토스에서_열기-10291D?style=flat-square)](https://minion.toss.im/j5r1G4Pl) |
 
 <br/>
 
@@ -51,7 +51,7 @@
 
 > **Database**
 
-<img src="https://img.shields.io/badge/PostgreSQL-10291D?style=flat-square&logo=postgresql&logoColor=4169E1"> <img src="https://img.shields.io/badge/Firestore-10291D?style=flat-square&logo=firebase&logoColor=FFCA28"> <img src="https://img.shields.io/badge/Room-10291D?style=flat-square&logo=android&logoColor=3DDC84">
+<img src="https://img.shields.io/badge/PostgreSQL-10291D?style=flat-square&logo=postgresql&logoColor=4169E1"> <img src="https://img.shields.io/badge/Firestore-10291D?style=flat-square&logo=firebase&logoColor=FFCA28">
 
 > **Web**
 
@@ -65,7 +65,7 @@
 
 ## ☁ Development Tools
 
-<img src="https://img.shields.io/badge/Git-10291D?style=flat-square&logo=git&logoColor=F05032"> <img src="https://img.shields.io/badge/GitHub-10291D?style=flat-square&logo=github&logoColor=E9F2EC"> <img src="https://img.shields.io/badge/Xcode-10291D?style=flat-square&logo=xcode&logoColor=147EFB"> <img src="https://img.shields.io/badge/Android_Studio-10291D?style=flat-square&logo=androidstudio&logoColor=3DDC84"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-10291D?style=flat-square&logo=intellijidea&logoColor=E9F2EC"> <img src="https://img.shields.io/badge/VS_Code-10291D?style=flat-square&logo=visualstudiocode&logoColor=007ACC"> <img src="https://img.shields.io/badge/Figma-10291D?style=flat-square&logo=figma&logoColor=F24E1E">
+<img src="https://img.shields.io/badge/Git-10291D?style=flat-square&logo=git&logoColor=F05032"> <img src="https://img.shields.io/badge/GitHub-10291D?style=flat-square&logo=github&logoColor=E9F2EC"> <img src="https://img.shields.io/badge/Xcode-10291D?style=flat-square&logo=xcode&logoColor=147EFB"> <img src="https://img.shields.io/badge/Android_Studio-10291D?style=flat-square&logo=androidstudio&logoColor=3DDC84"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-10291D?style=flat-square&logo=intellijidea&logoColor=E9F2EC"> <img src="https://img.shields.io/badge/VS_Code-10291D?style=flat-square&logo=visualstudiocode&logoColor=007ACC">
 
 <br/>
 
@@ -73,7 +73,7 @@
 
 - **2022** · 정보통신공학과 AdvICE 학회 Java 프로그래밍 2팀
 - **2025** · 정보통신공학과 AdvICE 학회 C언어
-- **2025** · 사이드 프로젝트 — **티처스노크** 임용고시 학습 관리 앱 (iOS · Android)
+- **2025** · 사이드 프로젝트 — **티처스노크** 임용고시 학습 관리 앱 (iOS)
 - **2026** · 사이드 프로젝트 — **떠나** 자동 브이로그 · 여행 코스 앱 (iOS · Android · Web)
 - **2026** · 사이드 프로젝트 — **헬로** 토스 미니앱
 - **2026** · KISA 클라우드 지원사업 선정

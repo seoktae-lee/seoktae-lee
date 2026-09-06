@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Seoktae Lee — I ship apps, and I run the servers behind them.">
+  <defs>
+    <linearGradient id="arc" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5A9BFF" stop-opacity="0"/>
+      <stop offset="55%" stop-color="#5A9BFF" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#5A9BFF" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#232B35" stop-opacity=".9"/>
+      <stop offset="100%" stop-color="#232B35" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="box"><rect width="1200" height="300" rx="10"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#box)">
+    <rect width="1200" height="300" fill="#0D1117"/>
+
+    <!-- altitude grid -->
+    <g stroke="#232B35" stroke-width="1" opacity=".5">
+      <line x1="0" y1="72"  x2="1200" y2="72"/>
+      <line x1="0" y1="132" x2="1200" y2="132"/>
+      <line x1="0" y1="192" x2="1200" y2="192"/>
+      <line x1="0" y1="252" x2="1200" y2="252"/>
+    </g>
+
+    <!-- ascent trajectory -->
+    <path d="M700 292 C 850 292, 940 236, 1010 150 C 1064 84, 1108 50, 1160 36"
+          fill="none" stroke="url(#arc)" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="1160" cy="36" r="5.5" fill="#5A9BFF"/>
+    <circle cx="1160" cy="36" r="13" fill="none" stroke="#5A9BFF" stroke-width="1.5" opacity=".35"/>
+
+    <!-- eyebrow -->
+    <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" letter-spacing="3.4" fill="#8A98A8">
+      <text x="72" y="82">A E R O N</text>
+      <text x="182" y="82" fill="#232B35">/</text>
+      <text x="204" y="82">S O L O   S T U D I O</text>
+    </g>
+    <line x1="72" y1="98" x2="560" y2="98" stroke="url(#fade)" stroke-width="1"/>
+
+    <!-- name -->
+    <text x="70" y="176" font-family="Optima, Avenir Next, Helvetica Neue, Segoe UI, system-ui, sans-serif"
+          font-size="64" font-weight="700" letter-spacing="-1.5" fill="#E9EFF6">Seoktae Lee</text>
+
+    <!-- tagline -->
+    <text x="72" y="214" font-family="Avenir Next, Helvetica Neue, Segoe UI, system-ui, sans-serif"
+          font-size="19" fill="#8A98A8">I ship apps &#8212; and I run the servers behind them.</text>
+
+    <!-- stat chips -->
+    <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" letter-spacing=".8">
+      <rect x="72"  y="242" width="150" height="30" rx="15" fill="#161C24" stroke="#232B35"/>
+      <text x="147" y="261.5" fill="#E9EFF6" text-anchor="middle">7 APPS SHIPPED</text>
+
+      <rect x="234" y="242" width="132" height="30" rx="15" fill="#161C24" stroke="#232B35"/>
+      <text x="300" y="261.5" fill="#E9EFF6" text-anchor="middle">3 SERVERS RUN</text>
+
+      <rect x="378" y="242" width="196" height="30" rx="15" fill="#161C24" stroke="#232B35"/>
+      <text x="476" y="261.5" fill="#E9EFF6" text-anchor="middle">iOS / ANDROID / WEB</text>
+    </g>
+  </g>
+</svg>

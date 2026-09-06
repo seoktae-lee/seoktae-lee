@@ -11,7 +11,7 @@
 
 <br/>
 
-## <img src="./assets/node.svg" width="15" alt=""> Information
+## <img src="./assets/node.svg" width="18" alt=""> Information
 
 > **Info**
 
@@ -27,7 +27,7 @@
 
 <br/>
 
-## <img src="./assets/node.svg" width="15" alt=""> Products
+## <img src="./assets/node.svg" width="18" alt=""> Products
 
 기획부터 서버·배포·운영까지 **1인**으로 만들어 실제로 출시한 서비스입니다.
 
@@ -39,7 +39,7 @@
 
 <br/>
 
-## <img src="./assets/node.svg" width="15" alt=""> Dev Stacks
+## <img src="./assets/node.svg" width="18" alt=""> Dev Stacks
 
 > **Mobile**
 
@@ -63,13 +63,13 @@
 
 <br/>
 
-## <img src="./assets/node.svg" width="15" alt=""> Development Tools
+## <img src="./assets/node.svg" width="18" alt=""> Development Tools
 
 <img src="https://img.shields.io/badge/Git-10291D?style=flat-square&logo=git&logoColor=F05032"> <img src="https://img.shields.io/badge/GitHub-10291D?style=flat-square&logo=github&logoColor=E9F2EC"> <img src="https://img.shields.io/badge/Xcode-10291D?style=flat-square&logo=xcode&logoColor=147EFB"> <img src="https://img.shields.io/badge/Android_Studio-10291D?style=flat-square&logo=androidstudio&logoColor=3DDC84"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-10291D?style=flat-square&logo=intellijidea&logoColor=E9F2EC"> <img src="https://img.shields.io/badge/VS_Code-10291D?style=flat-square&logo=visualstudiocode&logoColor=007ACC">
 
 <br/>
 
-## <img src="./assets/node.svg" width="15" alt=""> Experience
+## <img src="./assets/node.svg" width="18" alt=""> Experience
 
 - **2022** · 정보통신공학과 AdvICE 학회 Java 프로그래밍 2팀
 - **2025** · 정보통신공학과 AdvICE 학회 C언어
@@ -80,7 +80,7 @@
 
 <br/>
 
-## <img src="./assets/node.svg" width="15" alt=""> Currently
+## <img src="./assets/node.svg" width="18" alt=""> Currently
 
 - **Java · Spring Boot 이관** — 운영 중인 백엔드를 스트랭글러 패턴으로 옮기는 중입니다
 - **[cs-study](https://github.com/seoktae-lee/cs-study)** — 컴퓨터구조 · 알고리즘 · 네트워크 · 데이터베이스 · 운영체제

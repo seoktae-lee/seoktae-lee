@@ -2,14 +2,12 @@
   <defs><clipPath id="box"><rect width="1200" height="250" rx="10"/></clipPath></defs>
   <g clip-path="url(#box)">
     <rect width="1200" height="250" fill="#0D1117"/>
-
     <g stroke="#22302A" stroke-width="1" opacity=".45">
       <line x1="0" y1="58"  x2="1200" y2="58"/>
       <line x1="0" y1="116" x2="1200" y2="116"/>
       <line x1="0" y1="174" x2="1200" y2="174"/>
       <line x1="0" y1="232" x2="1200" y2="232"/>
     </g>
-
     <g fill="none" stroke="#35B37B" stroke-linecap="round">
       <path d="M660 236 C 820 236, 912 188, 986 118 C 1042 64, 1090 40, 1140 30" stroke-width="2.6" opacity=".92"/>
       <path d="M660 236 C 820 236, 912 188, 986 118 C 1042 64, 1090 40, 1140 30" stroke-width="11" opacity=".09"/>
@@ -20,20 +18,15 @@
       <line x1="986" y1="118" x2="986" y2="232"/>
       <line x1="1140" y1="30" x2="1140" y2="232"/>
     </g>
-
     <text x="70" y="128" font-family="Georgia, 'Times New Roman', 'Nimbus Roman', serif"
           font-size="70" font-weight="700" letter-spacing="-1" fill="#E9F2EC">Seoktae Lee</text>
-
     <text x="73" y="167" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
           font-size="19" fill="#87998F">I ship apps &#8212; and I run the servers behind them.</text>
-
     <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="12.5" letter-spacing=".6">
-      <rect x="72"  y="190" width="158" height="30" rx="15" fill="#10241B" stroke="#22302A"/>
-      <text x="151" y="209.5" fill="#E9F2EC" text-anchor="middle">7 APPS SHIPPED</text>
-      <rect x="242" y="190" width="152" height="30" rx="15" fill="#10241B" stroke="#22302A"/>
-      <text x="318" y="209.5" fill="#E9F2EC" text-anchor="middle">3 SERVERS RUN</text>
-      <rect x="406" y="190" width="204" height="30" rx="15" fill="#10241B" stroke="#22302A"/>
-      <text x="508" y="209.5" fill="#E9F2EC" text-anchor="middle">iOS / ANDROID / WEB</text>
+      <rect x="72"  y="190" width="152" height="30" rx="15" fill="#10241B" stroke="#22302A"/>
+      <text x="148" y="209.5" fill="#E9F2EC" text-anchor="middle">3 SERVERS RUN</text>
+      <rect x="236" y="190" width="204" height="30" rx="15" fill="#10241B" stroke="#22302A"/>
+      <text x="338" y="209.5" fill="#E9F2EC" text-anchor="middle">iOS / ANDROID / WEB</text>
     </g>
   </g>
 </svg>

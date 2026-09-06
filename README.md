@@ -21,7 +21,7 @@
 
 > **Contact**
 
-<a href="mailto:lee.seok.rae80@gmail.com"><img src="https://img.shields.io/badge/lee.seok.rae80@gmail.com-10291D?style=flat-square&logo=gmail&logoColor=E9F2EC"></a>
+<a href="mailto:lee.seok.rae80@gmail.com"><img src="https://img.shields.io/badge/Gmail-10291D?style=flat-square&logo=gmail&logoColor=E9F2EC"></a>
 <a href="https://github.com/seoktae-lee"><img src="https://img.shields.io/badge/GitHub-10291D?style=flat-square&logo=github&logoColor=E9F2EC"></a>
 <a href="https://tteona.kr"><img src="https://img.shields.io/badge/tteona.kr-10291D?style=flat-square&logo=safari&logoColor=E9F2EC"></a>
 

@@ -34,7 +34,7 @@
 |:--:|:--|:--|:--|:--|
 | <img src="./assets/icons/teachersknock.png" width="38"> | **티처스노크**<br/>임용고시 학습 관리 | 기획 · 서버 · iOS · Android · 배포 | 카카오 로그인이 **예측 가능한 비밀번호**로 계정을 만들던 구조를 Firebase Custom Token 방식으로 전환하고, 기존 사용자의 UID를 **무중단 마이그레이션**했습니다. | [![App Store](https://img.shields.io/badge/App_Store-10291D?style=flat-square&logo=appstore&logoColor=E9F2EC)](https://apps.apple.com/kr/app/id6757806439) |
 | <img src="./assets/icons/tteona.png" width="38"> | **떠나**<br/>자동 브이로그 · 여행 코스 | 기획 · 서버 · iOS · Android · 웹 · 인프라 | **REST API 56개** 서버를 3대의 실서버에서 직접 운영하며, Socket.IO 실시간 채팅·위치 공유와 **APNs · FCM 2경로** 푸시를 구축했습니다. | [![App Store](https://img.shields.io/badge/App_Store-10291D?style=flat-square&logo=appstore&logoColor=E9F2EC)](https://apps.apple.com/kr/app/id6767218543) [![Google Play](https://img.shields.io/badge/Google_Play-10291D?style=flat-square&logo=googleplay&logoColor=E9F2EC)](https://play.google.com/store/apps/details?id=com.seoktaedev.tteona) [![Web](https://img.shields.io/badge/tteona.kr-10291D?style=flat-square&logo=safari&logoColor=E9F2EC)](https://tteona.kr) |
-| <img src="./assets/icons/hello.png" width="38"> | **헬로**<br/>안부 인사 · 리워드 | 기획 · 프론트 · 백엔드 · 출시 | Express · TypeScript 백엔드에 **JWT 인증과 토스 로그인**을 연동하고, 심사를 거쳐 토스 미니앱으로 출시했습니다. 앱 설치 없이 토스에서 바로 실행됩니다. | [![Toss](https://img.shields.io/badge/토스에서_열기-10291D?style=flat-square&logo=toss&logoColor=E9F2EC)](https://minion.toss.im/j5r1G4Pl) |
+| <img src="./assets/icons/hello.png" width="38"> | **헬로**<br/>안부 인사 · 리워드 | 기획 · 프론트 · 백엔드 · 출시 | Express · TypeScript 백엔드에 **JWT 인증과 토스 로그인**을 연동하고, 심사를 거쳐 토스 미니앱으로 출시했습니다. 앱 설치 없이 토스에서 바로 실행됩니다. | [![Toss](https://img.shields.io/badge/토스에서_열기-10291D?style=flat-square)](https://minion.toss.im/j5r1G4Pl) |
 
 <br/>
 

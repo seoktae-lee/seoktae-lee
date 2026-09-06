@@ -1,50 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Seoktae Lee — I ship apps, and I run the servers behind them.">
-  <defs><clipPath id="box"><rect width="1200" height="300" rx="10"/></clipPath></defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" width="1200" height="250" role="img" aria-label="Seoktae Lee — I ship apps, and I run the servers behind them.">
+  <defs><clipPath id="box"><rect width="1200" height="250" rx="10"/></clipPath></defs>
   <g clip-path="url(#box)">
-    <rect width="1200" height="300" fill="#0D1117"/>
+    <rect width="1200" height="250" fill="#0D1117"/>
 
-    <!-- altitude grid -->
-    <g stroke="#242C36" stroke-width="1" opacity=".45">
-      <line x1="0" y1="76"  x2="1200" y2="76"/>
-      <line x1="0" y1="140" x2="1200" y2="140"/>
-      <line x1="0" y1="204" x2="1200" y2="204"/>
-      <line x1="0" y1="268" x2="1200" y2="268"/>
+    <g stroke="#22302A" stroke-width="1" opacity=".45">
+      <line x1="0" y1="58"  x2="1200" y2="58"/>
+      <line x1="0" y1="116" x2="1200" y2="116"/>
+      <line x1="0" y1="174" x2="1200" y2="174"/>
+      <line x1="0" y1="232" x2="1200" y2="232"/>
     </g>
 
-    <!-- ascent trajectory -->
-    <g fill="none" stroke="#5A9BFF" stroke-linecap="round">
-      <path d="M672 286 C 828 286, 918 232, 992 148 C 1046 86, 1092 52, 1140 40"
-            stroke-width="2.6" opacity=".9"/>
-      <path d="M672 286 C 828 286, 918 232, 992 148 C 1046 86, 1092 52, 1140 40"
-            stroke-width="11" opacity=".08"/>
+    <g fill="none" stroke="#35B37B" stroke-linecap="round">
+      <path d="M660 236 C 820 236, 912 188, 986 118 C 1042 64, 1090 40, 1140 30" stroke-width="2.6" opacity=".92"/>
+      <path d="M660 236 C 820 236, 912 188, 986 118 C 1042 64, 1090 40, 1140 30" stroke-width="11" opacity=".09"/>
     </g>
-    <circle cx="1140" cy="40" r="5.5" fill="#5A9BFF"/>
-    <circle cx="1140" cy="40" r="14" fill="none" stroke="#5A9BFF" stroke-width="1.4" opacity=".3"/>
-    <g stroke="#5A9BFF" stroke-width="1.2" opacity=".28">
-      <line x1="992" y1="148" x2="992" y2="268"/>
-      <line x1="1140" y1="40" x2="1140" y2="268"/>
+    <circle cx="1140" cy="30" r="5.5" fill="#35B37B"/>
+    <circle cx="1140" cy="30" r="14" fill="none" stroke="#35B37B" stroke-width="1.4" opacity=".3"/>
+    <g stroke="#35B37B" stroke-width="1.2" opacity=".26">
+      <line x1="986" y1="118" x2="986" y2="232"/>
+      <line x1="1140" y1="30" x2="1140" y2="232"/>
     </g>
 
-    <!-- eyebrow -->
-    <text x="72" y="50" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace"
-          font-size="13" letter-spacing="4" fill="#8A98A8">AERON &#183; SOLO STUDIO</text>
+    <text x="70" y="128" font-family="Georgia, 'Times New Roman', 'Nimbus Roman', serif"
+          font-size="70" font-weight="700" letter-spacing="-1" fill="#E9F2EC">Seoktae Lee</text>
 
-    <!-- name -->
-    <text x="70" y="176" font-family="Georgia, 'Times New Roman', 'Nimbus Roman', serif"
-          font-size="70" font-weight="700" letter-spacing="-1" fill="#E9EFF6">Seoktae Lee</text>
+    <text x="73" y="167" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+          font-size="19" fill="#87998F">I ship apps &#8212; and I run the servers behind them.</text>
 
-    <!-- tagline -->
-    <text x="73" y="216" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
-          font-size="19" fill="#8A98A8">I ship apps &#8212; and I run the servers behind them.</text>
-
-    <!-- stat chips -->
     <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="12.5" letter-spacing=".6">
-      <rect x="72"  y="240" width="158" height="30" rx="15" fill="#161C24" stroke="#242C36"/>
-      <text x="151" y="259.5" fill="#E9EFF6" text-anchor="middle">7 APPS SHIPPED</text>
-      <rect x="242" y="240" width="152" height="30" rx="15" fill="#161C24" stroke="#242C36"/>
-      <text x="318" y="259.5" fill="#E9EFF6" text-anchor="middle">3 SERVERS RUN</text>
-      <rect x="406" y="240" width="204" height="30" rx="15" fill="#161C24" stroke="#242C36"/>
-      <text x="508" y="259.5" fill="#E9EFF6" text-anchor="middle">iOS / ANDROID / WEB</text>
+      <rect x="72"  y="190" width="158" height="30" rx="15" fill="#10241B" stroke="#22302A"/>
+      <text x="151" y="209.5" fill="#E9F2EC" text-anchor="middle">7 APPS SHIPPED</text>
+      <rect x="242" y="190" width="152" height="30" rx="15" fill="#10241B" stroke="#22302A"/>
+      <text x="318" y="209.5" fill="#E9F2EC" text-anchor="middle">3 SERVERS RUN</text>
+      <rect x="406" y="190" width="204" height="30" rx="15" fill="#10241B" stroke="#22302A"/>
+      <text x="508" y="209.5" fill="#E9F2EC" text-anchor="middle">iOS / ANDROID / WEB</text>
     </g>
   </g>
 </svg>

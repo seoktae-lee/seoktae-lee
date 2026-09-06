@@ -11,22 +11,6 @@
 
 <br/>
 
-## <img src="./assets/node.svg" width="18" alt=""> Information
-
-> **Info**
-
-- **이름** : 이석태 (Seoktae Lee)
-- **소속** : 한국외국어대학교 정보통신공학과
-- **Location** : Yongin, South Korea
-
-> **Contact**
-
-<a href="mailto:lee.seok.rae80@gmail.com"><img src="https://img.shields.io/badge/Gmail-10291D?style=flat-square&logo=gmail&logoColor=E9F2EC"></a>
-<a href="https://github.com/seoktae-lee"><img src="https://img.shields.io/badge/GitHub-10291D?style=flat-square&logo=github&logoColor=E9F2EC"></a>
-<a href="https://tteona.kr"><img src="https://img.shields.io/badge/tteona.kr-10291D?style=flat-square&logo=safari&logoColor=E9F2EC"></a>
-
-<br/>
-
 ## <img src="./assets/node.svg" width="18" alt=""> Products
 
 기획부터 서버·배포·운영까지 **1인**으로 만들어 실제로 출시한 서비스입니다.
@@ -85,3 +69,11 @@
 - **Java · Spring Boot 이관** — 운영 중인 백엔드를 스트랭글러 패턴으로 옮기는 중입니다
 - **[cs-study](https://github.com/seoktae-lee/cs-study)** — 컴퓨터구조 · 알고리즘 · 네트워크 · 데이터베이스 · 운영체제
 - **알고리즘** — 자료구조부터 그래프까지 순서대로
+
+<br/>
+
+## <img src="./assets/node.svg" width="18" alt=""> Contact
+
+<a href="mailto:lee.seok.rae80@gmail.com"><img src="https://img.shields.io/badge/Gmail-10291D?style=flat-square&logo=gmail&logoColor=E9F2EC"></a>
+<a href="https://github.com/seoktae-lee"><img src="https://img.shields.io/badge/GitHub-10291D?style=flat-square&logo=github&logoColor=E9F2EC"></a>
+<a href="https://tteona.kr"><img src="https://img.shields.io/badge/tteona.kr-10291D?style=flat-square&logo=safari&logoColor=E9F2EC"></a>

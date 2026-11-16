@@ -66,11 +66,50 @@
 
 <br/>
 
+## <img src="./assets/node.svg" width="18" alt=""> Awards
+
+### <img src="./assets/icons/hanbeonman.png" width="28" alt=""> MEDILUX×잇타×UMC 하프 해커톤 — 최우수상
+
+자취생이 사기 전에 가까운 이웃의 물건을 문고리로 빌려 **한 번만 써 보는** 대여 앱 '한번만'을 개발했습니다.
+
+<br/>
+
 ## <img src="./assets/node.svg" width="18" alt=""> Currently
 
 - **Java · Spring Boot 이관** — 운영 중인 백엔드를 스트랭글러 패턴으로 옮기는 중입니다
 - **[cs-study](https://github.com/seoktae-lee/cs-study)** — 컴퓨터구조 · 알고리즘 · 네트워크 · 데이터베이스 · 운영체제
 - **알고리즘** — 자료구조부터 그래프까지 순서대로
+
+<br/>
+
+## <img src="./assets/node.svg" width="18" alt=""> GitHub Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seoktae-lee&theme=github_dark">
+    <img alt="GitHub profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seoktae-lee&theme=default" width="90%">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seoktae-lee&theme=github_dark">
+    <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seoktae-lee&theme=default" height="170">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=seoktae-lee&theme=github_dark&utcOffset=9">
+    <img alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=seoktae-lee&theme=default&utcOffset=9" height="170">
+  </picture>
+</p>
+
+<br/>
+
+## <img src="./assets/node.svg" width="18" alt=""> 3D Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
+  <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-green.svg" width="100%">
+</picture>
 
 <br/>
 
